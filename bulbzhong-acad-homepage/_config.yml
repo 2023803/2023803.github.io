@@ -1,0 +1,24 @@
+title: "bulbzhong | Personal Homepage"
+description: "计算机专业在读学生，关注大模型、多模态与算法。"
+url: "https://2023803.github.io"
+repository: "2023803/2023803.github.io"
+lang: "zh-CN"
+timezone: "Asia/Shanghai"
+encoding: "utf-8"
+markdown: kramdown
+permalink: /:categories/:title/
+
+author:
+  name: "bulbzhong"
+  role: "计算机专业在读学生 · Computer Science Student"
+  bio: "一个很喜欢音乐的徒步爱好者"
+  location: "浙江，中国 · Zhejiang, China"
+  email: "acc04321@163.com"
+  github: "2023803"
+
+include:
+  - _pages
+
+exclude:
+  - README.md
+  - LICENSE

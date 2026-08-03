@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'zh-CN' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description | escape }}">
+    <meta name="theme-color" content="#f5f7fb">
+    <title>{% if page.title and page.title != '' %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="/#about">bulbzhong</a>
+        <nav class="site-nav" aria-label="主要导航">
+          <a href="/#about">关于</a>
+          <a href="/#news">动态</a>
+          <a href="/#interests">兴趣</a>
+          <a href="/#projects">项目</a>
+          <a href="/#honors">荣誉</a>
+          <a href="/#education">教育</a>
+        </nav>
+      </div>
+    </header>
+
+    <div class="page-shell">
+      <aside class="profile-card" aria-label="个人资料">
+        {% include avatar.html %}
+        <h1>{{ site.author.name }}</h1>
+        <p class="role">{{ site.author.role }}</p>
+        <p class="bio">{{ site.author.bio }}</p>
+        <ul class="contact-list">
+          <li><span>⌖</span>{{ site.author.location }}</li>
+          <li><span>✉</span><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          <li><span>⌘</span><a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">github.com/{{ site.author.github }}</a></li>
+        </ul>
+      </aside>
+
+      <main class="content-card" id="main-content">
+        {{ content }}
+      </main>
+    </div>
+
+    <footer class="site-footer">
+      <p>© {{ 'now' | date: '%Y' }} bulbzhong · Built with GitHub Pages · Inspired by <a href="https://github.com/RayeRen/acad-homepage.github.io">AcadHomepage</a></p>
+    </footer>
+  </body>
+</html>
