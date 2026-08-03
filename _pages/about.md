@@ -34,14 +34,13 @@ Hi, I am **bulbzhong**, a computer science student interested in **large languag
 
 # 💻 项目 / Projects
 
-<div class="project-list">
-  <article class="project-item">
-    <h3 class="project-title"><span class="project-icon" aria-hidden="true">📎</span><span>基于 Graph Transformer 的安卓恶意软件检测方法研究</span></h3>
-    <p class="project-date"><strong>2026.01 – 2026.05</strong></p>
-    <p>围绕 Graph Transformer 探索安卓恶意软件检测方法，关注图结构表征与恶意行为识别。</p>
-    <p class="project-summary-en"><em>Research on Android malware detection with Graph Transformer, focusing on graph representations and malicious behavior recognition.</em></p>
-  </article>
-</div>
+<ul class="project-list">
+  <li class="project-row">
+    <svg class="project-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m21.44 11.05-9.19 9.19a6 6 0 0 1-8.49-8.49l9.19-9.19a4 4 0 0 1 5.66 5.66l-9.2 9.19a2 2 0 0 1-2.83-2.83l8.49-8.48"></path></svg>
+    <span class="project-name">基于 Graph Transformer 的安卓恶意软件检测方法研究</span>
+    <span class="project-date">2026.01 – 2026.05</span>
+  </li>
+</ul>
 
 <span class='anchor' id='honors'></span>
 
