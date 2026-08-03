@@ -20,7 +20,6 @@ Hi, I am **bulbzhong**, a computer science student currently studying **large la
 
 # 🔥 近期动态 / News
 
-- **现在 / Now**：沉淀、修炼、学习中。*Focusing, practicing, and learning.*
 - **LeetCode 题目练习**
 - **Hugging Face Transformers 学习**
 
@@ -78,11 +77,11 @@ Hi, I am **bulbzhong**, a computer science student currently studying **large la
 
 <ul class="life-event-list">
   <li class="life-event-row">
-    <svg class="life-event-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M2 15c1.5 0 1.5-1 3-1s1.5 1 3 1 1.5-1 3-1 1.5 1 3 1 1.5-1 3-1 1.5 1 3 1 1.5-1 3-1"></path><path d="M2 19c1.5 0 1.5-1 3-1s1.5 1 3 1 1.5-1 3-1 1.5 1 3 1 1.5-1 3-1 1.5 1 3 1 1.5-1 3-1"></path></svg>
+    <span class="life-event-emoji" aria-hidden="true">🌊</span>
     <span><strong>2026.06</strong>：毕业了，心情像张震岳的专辑《跟着感觉走》</span>
   </li>
   <li class="life-event-row">
-    <svg class="life-event-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M2 15c1.5 0 1.5-1 3-1s1.5 1 3 1 1.5-1 3-1 1.5 1 3 1 1.5-1 3-1 1.5 1 3 1 1.5-1 3-1"></path><path d="M2 19c1.5 0 1.5-1 3-1s1.5 1 3 1 1.5-1 3-1 1.5 1 3 1 1.5-1 3-1 1.5 1 3 1 1.5-1 3-1"></path></svg>
+    <span class="life-event-emoji" aria-hidden="true">🌊</span>
     <span><strong>2026.07</strong>：过渡期 Come to Life</span>
   </li>
 </ul>
