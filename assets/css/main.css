@@ -94,7 +94,7 @@
   width: 1rem;
   height: 1rem;
   flex: 0 0 1rem;
-  color: #666;
+  color: #224b8d;
 }
 
 .project-name {
@@ -118,5 +118,40 @@
   .project-date {
     width: 100%;
     padding-left: 1.65rem;
+  }
+}
+
+.life-event-list {
+  margin: 1rem 0 2rem;
+  padding: 0;
+  list-style: none;
+}
+
+.life-event-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.65rem;
+  min-width: 0;
+  margin: 0;
+  padding: 0.55rem 0;
+}
+
+.life-event-icon {
+  display: block;
+  width: 1rem;
+  height: 1rem;
+  flex: 0 0 1rem;
+  margin-top: 0.25em;
+  color: #3b82b6;
+}
+
+.life-event-row span {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+@media (min-width: 57.8125em) {
+  .greedy-nav > button {
+    display: none !important;
   }
 }

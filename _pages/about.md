@@ -12,15 +12,17 @@ redirect_from:
 
 # 关于我 / About Me
 
-你好，我是 **bulbzhong**，一名计算机专业在读学生。目前主要关注 **大模型、多模态与算法**。在学习与研究之外，我很喜欢音乐和徒步，也希望在代码、旋律与山野之间保持好奇、持续成长。
+你好，我是 **bulbzhong**，一名计算机专业在读学生。目前主要学习 **大模型、多模态与算法**。此外，我很喜欢音乐、徒步和骑行。
 
-Hi, I am **bulbzhong**, a computer science student interested in **large language models, multimodal learning, and algorithms**. Beyond computing, I enjoy music and hiking.
+Hi, I am **bulbzhong**, a computer science student currently studying **large language models, multimodal learning, and algorithms**. Beyond computing, I enjoy music, hiking, and cycling.
 
 <span class='anchor' id='news'></span>
 
 # 🔥 近期动态 / News
 
 - **现在 / Now**：沉淀、修炼、学习中。*Focusing, practicing, and learning.*
+- **LeetCode 题目练习**
+- **Hugging Face Transformers 学习**
 
 <span class='anchor' id='research-interests'></span>
 
@@ -36,7 +38,7 @@ Hi, I am **bulbzhong**, a computer science student interested in **large languag
 
 <ul class="project-list">
   <li class="project-row">
-    <svg class="project-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m21.44 11.05-9.19 9.19a6 6 0 0 1-8.49-8.49l9.19-9.19a4 4 0 0 1 5.66 5.66l-9.2 9.19a2 2 0 0 1-2.83-2.83l8.49-8.48"></path></svg>
+    <svg class="project-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 17v5"></path><path d="m5 17 2-7V5h10v5l2 7Z"></path><path d="M5 17h14"></path><path d="M9 5V2h6v3"></path></svg>
     <span class="project-name">基于 Graph Transformer 的安卓恶意软件检测方法研究</span>
     <span class="project-date">2026.01 – 2026.05</span>
   </li>
@@ -72,7 +74,15 @@ Hi, I am **bulbzhong**, a computer science student interested in **large languag
 
 <span class='anchor' id='life'></span>
 
-# 🎵 生活之外 / Beyond Research
+# 个人生活事件 / Personal Life Events
 
-音乐让我保持感受力，徒步让我重新理解距离与节奏。<br>
-*Music keeps me sensitive to the world; hiking teaches me distance, patience, and pace.*
+<ul class="life-event-list">
+  <li class="life-event-row">
+    <svg class="life-event-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M2 15c1.5 0 1.5-1 3-1s1.5 1 3 1 1.5-1 3-1 1.5 1 3 1 1.5-1 3-1 1.5 1 3 1 1.5-1 3-1"></path><path d="M2 19c1.5 0 1.5-1 3-1s1.5 1 3 1 1.5-1 3-1 1.5 1 3 1 1.5-1 3-1 1.5 1 3 1 1.5-1 3-1"></path></svg>
+    <span><strong>2026.06</strong>：毕业了，心情像张震岳的专辑《跟着感觉走》</span>
+  </li>
+  <li class="life-event-row">
+    <svg class="life-event-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M2 15c1.5 0 1.5-1 3-1s1.5 1 3 1 1.5-1 3-1 1.5 1 3 1 1.5-1 3-1 1.5 1 3 1 1.5-1 3-1"></path><path d="M2 19c1.5 0 1.5-1 3-1s1.5 1 3 1 1.5-1 3-1 1.5 1 3 1 1.5-1 3-1 1.5 1 3 1 1.5-1 3-1"></path></svg>
+    <span><strong>2026.07</strong>：过渡期 Come to Life</span>
+  </li>
+</ul>
