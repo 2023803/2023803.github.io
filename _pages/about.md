@@ -21,7 +21,13 @@ Hi, I am **bulbzhong**, a computer science student currently studying **large la
 # 🔥 近期动态 / News
 
 - **LeetCode 题目练习**
+    - 滑动窗口
+    - 二分
+    - 链表
+    - 二叉树递归
+    - 回溯
 - **Hugging Face Transformers 学习**
+    - 实战-基于MacBERT的中文命名实体识别（NER）
 
 <span class='anchor' id='research-interests'></span>
 
