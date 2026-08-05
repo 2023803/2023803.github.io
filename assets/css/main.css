@@ -149,6 +149,41 @@
   overflow-wrap: anywhere;
 }
 
+.news-learning-list {
+  min-width: 0;
+}
+
+.news-learning-group {
+  min-width: 0;
+}
+
+.news-task-list {
+  margin-top: 0.4rem;
+  padding-left: 0;
+  list-style: none;
+}
+
+.news-task {
+  position: relative;
+  min-width: 0;
+  margin-bottom: 0.35rem;
+  padding-left: 1.4em;
+  overflow-wrap: anywhere;
+}
+
+.news-task::before {
+  position: absolute;
+  left: 0.15em;
+  content: "•";
+  color: #555;
+}
+
+.news-task.is-complete::before {
+  content: "✓";
+  color: #2e8b57;
+  font-weight: 700;
+}
+
 @media (min-width: 57.8125em) {
   .greedy-nav > button {
     display: none !important;

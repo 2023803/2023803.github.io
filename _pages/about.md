@@ -20,14 +20,28 @@ Hi, I am **bulbzhong**, a computer science student currently studying **large la
 
 # 🔥 近期动态 / News
 
-- **LeetCode 题目练习**
-    - 滑动窗口
-    - 二分
-    - 链表
-    - 二叉树递归
-    - 回溯
-- **Hugging Face Transformers 学习**
-    - 实战-基于MacBERT的中文命名实体识别（NER）
+<ul class="news-learning-list">
+  <li class="news-learning-group">
+    <strong>LeetCode 题目练习</strong>
+    <ul class="news-task-list">
+      <li class="news-task is-complete">滑动窗口</li>
+      <li class="news-task is-complete">二分</li>
+      <li class="news-task is-complete">链表</li>
+      <li class="news-task is-complete">二叉树递归</li>
+      <li class="news-task">回溯</li>
+    </ul>
+  </li>
+  <li class="news-learning-group">
+    <strong>Hugging Face Transformers 学习</strong>
+    <ul class="news-task-list">
+      <li class="news-task">实战-基于截断策略的机器阅读理解任务实现</li>
+      <li class="news-task is-complete">实战-基于MacBERT的中文命名实体识别（NER）</li>
+    </ul>
+  </li>
+  <li class="news-learning-group">
+    <strong>《百面大模型》学习</strong>
+  </li>
+</ul>
 
 <span class='anchor' id='research-interests'></span>
 
