@@ -184,9 +184,18 @@
   font-weight: 700;
 }
 
+.news-task.has-subtasks {
+  padding-left: 0;
+}
+
+.news-task.has-subtasks > .news-task-text {
+  display: block;
+  padding-left: 1.4em;
+}
+
 .news-subtask-list {
   margin: 0.35rem 0 0;
-  padding-left: 1.25rem;
+  padding-left: 0;
   list-style: none;
 }
 
