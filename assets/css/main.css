@@ -184,6 +184,34 @@
   font-weight: 700;
 }
 
+.news-subtask-list {
+  margin: 0.35rem 0 0;
+  padding-left: 1.25rem;
+  list-style: none;
+}
+
+.news-subtask {
+  position: relative;
+  min-width: 0;
+  margin-bottom: 0.3rem;
+  padding-left: 1.4em;
+  overflow-wrap: anywhere;
+  font-weight: 400;
+}
+
+.news-subtask::before {
+  position: absolute;
+  left: 0.15em;
+  content: "•";
+  color: #555;
+}
+
+.news-subtask.is-complete::before {
+  content: "✓";
+  color: #2e8b57;
+  font-weight: 700;
+}
+
 @media (min-width: 57.8125em) {
   .greedy-nav > button {
     display: none !important;

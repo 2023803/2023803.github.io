@@ -34,7 +34,13 @@ Hi, I am **bulbzhong**, a computer science student currently studying **large la
   <li class="news-learning-group">
     <strong>Hugging Face Transformers 学习</strong>
     <ul class="news-task-list">
-      <li class="news-task">实战-基于截断策略的机器阅读理解任务实现</li>
+      <li class="news-task is-complete">
+        <span class="news-task-text">实战-基于截断策略的机器阅读理解任务实现</span>
+        <ul class="news-subtask-list">
+          <li class="news-subtask is-complete">基于 MacBERT 的机器阅读理解评估和预测</li>
+          <li class="news-subtask is-complete">基于 MacBERT 交叉编码器与双塔模型的子相似度计算</li>
+        </ul>
+      </li>
       <li class="news-task is-complete">实战-基于MacBERT的中文命名实体识别（NER）</li>
     </ul>
   </li>
